@@ -10,5 +10,11 @@
     "Pbl"
   ],
   "author": "Hurrican",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "formik": "^2.1.7",
+    "react-bootstrap": "^1.3.0",
+    "yup": "^0.29.3"
+  }
 }
